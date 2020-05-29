@@ -9,3 +9,5 @@ samples/atm 40 $USER
 
 # IMPORTANT NOTE: every test line must start with EXACTLY "samples/atm", as in the above example.
 # Any comments must be on their own line, prefixed with a #.
+
+samples/atm 300 zolboo
