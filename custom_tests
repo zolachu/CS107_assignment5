@@ -11,3 +11,4 @@ samples/atm 40 $USER
 # Any comments must be on their own line, prefixed with a #.
 
 samples/atm 300 zolboo
+samples/atm 40 zzzzzz
